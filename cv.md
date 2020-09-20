@@ -35,4 +35,4 @@ pmparitet@mail.ru
 
 ## Knowledge of languages 
 
-English level - A2
+
