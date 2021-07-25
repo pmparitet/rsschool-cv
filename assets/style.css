@@ -39,3 +39,12 @@ header {
 p {
 	margin-left: 20px;
 }
+
+footer {
+	display: flex;
+	justify-content: center;
+}
+
+.git-link {
+	margin: 0 10px;
+}
